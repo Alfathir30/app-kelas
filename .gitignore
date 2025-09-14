@@ -1,0 +1,15 @@
+node_modules/
+*.log
+npm-debug.log
+yarn-error.log
+.expo/
+dist/
+build/
+*.tbres
+*.etl
+*.jtx
+*.dat
+*.vscdb
+*.store
+Session_*
+Safe Browsing/

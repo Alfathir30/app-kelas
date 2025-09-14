@@ -1,0 +1,53 @@
+{
+  "common": {
+    "loading": "Memuat...",
+    "error": "Terjadi kesalahan",
+    "save": "Simpan",
+    "cancel": "Batal",
+    "delete": "Hapus",
+    "edit": "Edit",
+    "add": "Tambah",
+    "search": "Cari",
+    "settings": "Pengaturan"
+  },
+  "auth": {
+    "login": "Masuk",
+    "register": "Daftar",
+    "logout": "Keluar",
+    "email": "Email",
+    "password": "Kata Sandi",
+    "name": "Nama",
+    "loginTitle": "Masuk ke Akun",
+    "registerTitle": "Buat Akun Baru",
+    "forgotPassword": "Lupa Kata Sandi?"
+  },
+  "navigation": {
+    "dashboard": "Beranda",
+    "piket": "Piket",
+    "pelajaran": "Pelajaran",
+    "profile": "Profil"
+  },
+  "dashboard": {
+    "title": "Beranda",
+    "todaySchedule": "Jadwal Hari Ini",
+    "upcomingTasks": "Tugas Mendatang",
+    "summary": "Ringkasan"
+  },
+  "piket": {
+    "title": "Jadwal Piket",
+    "monday": "Senin",
+    "tuesday": "Selasa",
+    "wednesday": "Rabu",
+    "thursday": "Kamis",
+    "friday": "Jumat",
+    "addStudent": "Tambah Siswa",
+    "editSchedule": "Edit Jadwal"
+  },
+  "pelajaran": {
+    "title": "Jadwal Pelajaran",
+    "subject": "Mata Pelajaran",
+    "teacher": "Guru",
+    "time": "Waktu",
+    "room": "Ruangan"
+  }
+}

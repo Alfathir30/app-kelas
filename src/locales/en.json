@@ -1,0 +1,53 @@
+{
+  "common": {
+    "loading": "Loading...",
+    "error": "An error occurred",
+    "save": "Save",
+    "cancel": "Cancel",
+    "delete": "Delete",
+    "edit": "Edit",
+    "add": "Add",
+    "search": "Search",
+    "settings": "Settings"
+  },
+  "auth": {
+    "login": "Login",
+    "register": "Register",
+    "logout": "Logout",
+    "email": "Email",
+    "password": "Password",
+    "name": "Name",
+    "loginTitle": "Login to Account",
+    "registerTitle": "Create New Account",
+    "forgotPassword": "Forgot Password?"
+  },
+  "navigation": {
+    "dashboard": "Dashboard",
+    "piket": "Duty",
+    "pelajaran": "Lessons",
+    "profile": "Profile"
+  },
+  "dashboard": {
+    "title": "Dashboard",
+    "todaySchedule": "Today's Schedule",
+    "upcomingTasks": "Upcoming Tasks",
+    "summary": "Summary"
+  },
+  "piket": {
+    "title": "Duty Schedule",
+    "monday": "Monday",
+    "tuesday": "Tuesday",
+    "wednesday": "Wednesday",
+    "thursday": "Thursday",
+    "friday": "Friday",
+    "addStudent": "Add Student",
+    "editSchedule": "Edit Schedule"
+  },
+  "pelajaran": {
+    "title": "Lesson Schedule",
+    "subject": "Subject",
+    "teacher": "Teacher",
+    "time": "Time",
+    "room": "Room"
+  }
+}
